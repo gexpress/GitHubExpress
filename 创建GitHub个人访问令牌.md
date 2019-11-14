@@ -34,7 +34,10 @@
 
    
 
-6. 选择要授予此令牌的作用域或权限。 要使用令牌从命令行访问仓库，请选择 **repo（仓库）**。
+6. 选择要授予此令牌的作用域或权限。 选择以下权限：
+  - **repo（仓库）**
+  - **notifications（通知）** *（赞和关注需要此权限）*
+  - **write: discussion（讨论）**
 
    ![选择令牌作用域](https://help.github.com/assets/images/help/settings/token_scopes.gif)
 
